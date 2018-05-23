@@ -3,6 +3,8 @@
 
 Código que acompaña al artículo publicado en Apple Coding sobre reporting en apps iOS y macOS mediante `HTML` y `CSS3`
 
+![Screenshot](https://github.com/fitomad/AppleCoding-Reporting/blob/master/Screenshots/article-reporting-header.jpg)
+
 ## Librerías HTML y CSS
 
 Para el diseño de las plantillas con los gráfico es informes hemos usado dos librerías:
