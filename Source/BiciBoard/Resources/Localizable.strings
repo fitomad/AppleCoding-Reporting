@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  BiciBoard
+
+  Created by Adolfo Vera Blasco on 23/5/18.
+  Copyright © 2018 desappstre {eStudio}. All rights reserved.
+*/
+
+
+//
+// SERVICE
+//
+
+"SERVICE_TITLE" = "Status";
+"SERVICE_BIKES_GRAPH_TITLE" = "Bicis";
+"SERVICE_STATIONS_GRAPH_TITLE" = "Estaciones";
+"SERVICE_OCCUPATION_GRAPH_TITLE" = "Ocupación";
+"SERVICE_COMPARATION_GRAPH_TITLE" = "Comparación Servicio";
+"SERVICE_STATIONS_LIST_TITLE" = "Lista de Estaciones";
+
+//
+// STATION
+//
+
+"STATION_BIKE_TITLE" = "BICIS";
+"STATION_DOCK_TITLE" = "PUERTOS";

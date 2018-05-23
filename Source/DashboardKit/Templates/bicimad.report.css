@@ -1,0 +1,31 @@
+body { background-color: #ffffff; }
+
+.title { font-family: -apple-system,system-ui; font-size: 20pt; font-weight: 800; }
+.text { font-family: -apple-system,system-ui; font-size: 15pt; }
+div small { font-family: -apple-system,system-ui; font-size: 9pt; }
+div count { font-family: -apple-system,system-ui; font-size: 11pt; font-weight: 600; }
+div note { font-family: -apple-system,system-ui; font-size: 10pt; font-weight: 300; color: #9c9698; }
+
+.theader { font-family: -apple-system,system-ui; font-size: 12pt; font-weight: 800; }
+.tcell { font-family: -apple-system,system-ui; font-size: 10pt; font-weight: 400; }
+.row-separator { padding-top: 8pt; padding-bottom: 8pt; border-bottom: #efefef solid 1px; }
+
+.right { text-align: right; }
+.center { text-align: center; }
+
+
+.low-occupation,
+.middle-occupation,
+.high-occupation,
+.offline-occupation
+{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #ff0000;
+}
+
+.low-occupation { background-color: #b4fd28; }
+.middle-occupation { background-color: #fbe43e; }
+.high-occupation { background-color: #ff4e4e; }
+.offline-occupation { background-color: #ff6ad2; }
