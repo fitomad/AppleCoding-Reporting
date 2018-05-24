@@ -32,6 +32,14 @@ private init()
 	...
 ```
 
+## Cosas Por Hacer (TO-DO)
+
+Algunas cosas se ha quedado sin codificar por motivos de tiempo, algunas de  ellas son...
+
+* Añadir la funcionalidad de marcar estaciones como favoritas
+* Poder hacer Back desde el controlador del mapa.
+
+
 ## Contacto
 
 Cualquier duda o sugerencia me puedes encontrar en twitter. [@fitomad](https://twitter.com/fitomad)
